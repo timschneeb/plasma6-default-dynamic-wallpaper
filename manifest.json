@@ -1,0 +1,12 @@
+{
+    "Type": "day-night",
+    "Meta": [
+        {
+            "TimeOfDay": "day",
+            "FileName": "5120x2880.png"
+        }, {
+            "TimeOfDay": "night",
+            "FileName": "5120x2880_dark.png"
+        }
+    ]
+}
