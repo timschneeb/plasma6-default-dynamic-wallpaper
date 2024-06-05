@@ -1,4 +1,4 @@
-# Dynamic version of the default Plasma 6 wallpaper
+## Default Plasma 6 wallpaper with fade effect
 
 The light/dark version of the wallpaper slowly fades based on sunrise/sunset in your location.
 
